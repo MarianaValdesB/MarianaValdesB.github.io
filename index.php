@@ -6,27 +6,6 @@
     <meta charset="UTF-8">
     <link rel="stylesheet" href="/css/style.css">
     <link rel="stylesheet" href="/css/font.css">
-    <script type="module">
-        // Import the functions you need from the SDKs you need
-        import {
-            initializeApp
-        } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-app.js";
-        // TODO: Add SDKs for Firebase products that you want to use
-        // https://firebase.google.com/docs/web/setup#available-libraries
-
-        // Your web app's Firebase configuration
-        const firebaseConfig = {
-            apiKey: "AIzaSyCX3-cQSIoz-1HCknbcYjJCwcEHXmb1fnQ",
-            authDomain: "estee-lauder-563fa.firebaseapp.com",
-            projectId: "estee-lauder-563fa",
-            storageBucket: "estee-lauder-563fa.appspot.com",
-            messagingSenderId: "151153876448",
-            appId: "1:151153876448:web:f03b5acf5b283bf3669f85"
-        };
-
-        // Initialize Firebase
-        const app = initializeApp(firebaseConfig);
-    </script>
 </head>
 
 <body>
