@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "estee-lauder-408919",
+  "private_key_id": "4002f6a8bb0c42e1e8439cb4bdb05d4853852488",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDVfOurUnhsHl13\neIrZewIQdvLsaWlDxIhTMWCb75KyRwYQoZxF+/M5TLez7ri+nGs30qICjN253qHu\n2H3NJSk+vrJPrniqJc5br9nJJun06nLEsXiQnMiwHYY9iTtQMMTK/SqFjEXeKjS6\nfAo62SOv2vVnsMRIGYIPM9XRlBIT+WUuvmjyIkMo932reK045lRpztgxNKq0vKyp\nx5rCbZqy4Ty4Vq4Lr2m7Z3yjoOuU9jeWsf0FQgIAvddVhvCTat/pODnamkjdXWwP\nbMEhsvTfB0qk3Tm7IoVu6OwJxBHB/LIo4XZoRshchS2CFnEvNN9oPwjI6xoo8hYf\nQx9oql6HAgMBAAECggEAK0oGW5oAcyQBHd2ighDwTThhb9C8GJK8deoYReZhX6cJ\nMswibQp2ulK1GVY5veTn1MzwLwYzW6IqQc1CTRvQ7jkq3P9q1k2ON4dD6Qbr/86e\ncQXvhZtVEmkaNFYkYdFRxjtpqOTVsgPq5zmJtX8cPmduxZTRaDFL7xs6qyGUPNpB\nH2SoYW1tRfVflXrFZtO+lNjpByAmuv4Cd1PD1nCaCFCfolv/B6+HmY6hvheBHZSZ\n8LvOMEsrvuw26xtrNeS7l32BZ/ciAbSEG5Qa5jlzOXKYDEApYJmBf5HQOu1zZi3C\nqZs7dJr5nRqgEKN3fhnRu+gtcmbH3/s0ADpWcbOCeQKBgQD/Hz+u1ncTXb9C1kdl\nzYoF4gekbpTQ9kL2S62o03O0G07RvpFDmkNJ1jlBLmZsxh4dl0R0SB9yWbY7pHIU\nSH+a54yuQpFmH2z0KISrf7K/2GuiJ3pp6ziEifwdQqcbwWqmEk+WyoDU3qilJAv3\nLBN/+63Gg4J1j+Mrbc8BKFWqfQKBgQDWOP54pa4Z8OM+4Y2dJvN7sXTBI3EtMXLE\nu2l2wVTHij9y1fJ3h4vFGiINNdNj4A1qF1vU++jdUsT/As/3VVeLH5XWMco9Uxwu\nnqSc0lPcvZnMnOXfThiLJqDzIlC3mAV7AOZYXdPbBle5Ga6LyDIT7vycUcWbH+LI\nfb4KaJf4UwKBgEs6bq/ig7hNM4HE58bIJgP4E6LUDMPVagdwZ2PZ/ktEpihJFlKl\n4WObbMSgpwk6HlVBbqkPP16bv5W0twLuIdqOnrgf3voLGDii3gQoIpBZg9uL4pfr\nCX5jpdkG93nCvez8h0WCrxyWD4qqp3CaKaHal/JqgwShii4bMig4OZKNAoGBAK7V\nnyH6Hih/yAd28Cv1MTyfbOmAMosu0zsqtX09diLQes4PPK8/CdyYYngjmN3naytN\n2x3tZnTTa4Gw2uhCV4ttAM3qnuMD5HlL8o8mvVjnyREMcDOauj8/DJbCR9w/DyH/\nbv9pvFECUS/5fNIKVoycPMCboEnlcSIuNZ6rFHSPAoGBAMhNjSQVOfZpFSdhi2qR\nnU3Ef7L+iAg8xPaFONLLnYZvv1qTHk5cGCq2EzBr5dMhc7s2f+5rWKomxldiXbBV\nXRikP8d7aumoyO1myH+n3oZsrRfxVjc84N2pXsT5NXPxyQdM0FFCq7uFypCa+mQQ\nrTVOwJSt/cxw9+U9Z+cuKKBs\n-----END PRIVATE KEY-----\n",
+  "client_email": "invoke-functions-esteelauder@estee-lauder-408919.iam.gserviceaccount.com",
+  "client_id": "116703409738668542796",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/invoke-functions-esteelauder%40estee-lauder-408919.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
